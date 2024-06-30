@@ -1,6 +1,6 @@
 ## README
 
-# 👋 Hello, I'm [Zahra shahlaie]!
+# 👋 Hello, I'm Zahra shahlaie!
 
 ### 🚀 About Me
 I'm a Python programmer and a specialist in Artificial Intelligence (AI), Deep Learning (DL), and Machine Learning (ML). My journey in the tech world is fueled by a relentless passion for learning and executing diverse projects. I pride myself on being hardworking, diligent, and responsible, always eager to collaborate with leading teams in AI, ML, and DL.
