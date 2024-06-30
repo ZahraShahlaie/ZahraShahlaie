@@ -4,7 +4,7 @@
 ### 🚀 About Me
 I'm a Python programmer and a specialist in Artificial Intelligence, Deep Learning, and Machine Learning. My journey in the tech world is fueled by a relentless passion for learning and executing diverse projects. I pride myself on being hardworking, diligent, and responsible, always eager to collaborate with leading teams in AI, ML, and DL.
 
-### 💡 Professional Expertise
+### 💡 Expertise
 - **AI Developer**: Crafting intelligent solutions to complex problems.
 - **Deep Learning**: Specializing in CNN, YOLO, OpenCV, and advanced architectures like LSTM and RNN.
 - **Machine Learning**: Experienced in training models for high performance and accuracy.
